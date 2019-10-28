@@ -261,5 +261,3 @@ This Bootcamp is an exercise in test driven development (TDD). When you first st
     - **be sure to add error handling** if the address provided fails due to formatting. You don't want your application to crash. 
     - **test** your implementation again to ensure that your application is actually changing the database and retreiving from the database. Consider writing or adapting a test to ensure the latitude and longitude are properly saved.
 
-
-#END
