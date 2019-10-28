@@ -1,5 +1,5 @@
 # Creating a server-side API module using Express
-### Overview
+### Overview   
 In Bootcamp# 1, we created a server to host our UF Directory App by implementing a primitive server-side router that responded to a single GET requests to '/listings' that retrieved our listings from a json file and sent the directory listingsto the client’s browser. 
 
 In Bootcamp #2, we worked with MongoDB Atlas database (DBaaS) to make our listing data persistent. We setup communication between database (MongoDB Atlas) and server (node.js) using Mongoose as our connection driver.  We then created a database schema to organize the listings and we wrote a script `JSONtoMongo.js` to populate the database from the json file. We also created some test queries `queries.js` to ensure that our database worked.
@@ -261,8 +261,3 @@ This Bootcamp is an exercise in test driven development (TDD). When you first st
     - **be sure to add error handling** if the address provided fails due to formatting. You don't want your application to crash. 
     - **test** your implementation again to ensure that your application is actually changing the database and retreiving from the database. Consider writing or adapting a test to ensure the latitude and longitude are properly saved.
 
-
-xcfijodsr
-drurehporh
-erhpiehr
-kk
